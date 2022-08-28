@@ -1,0 +1,8 @@
+There are 4 Patterns which are very Similar in nature
+
+1. Adapter- its about making two incompatible interfaces compatible
+2. Facade- its about hiding the complex interaction of multiple algorithms behind the facade,
+that can be used by the client
+3. Proxy- its a way to place some proxy between caller and target object which caller actual want to call,
+so actually caller want to call target object but it calls proxy and this proxy calls target object.
+4. Decorator-
